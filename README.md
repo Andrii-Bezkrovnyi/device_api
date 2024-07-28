@@ -1,1 +1,2 @@
-# device_api
+# API for CRUD devices data
+
